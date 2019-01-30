@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FavouriteToys</string>
+    <string name="hint_id">Please Enter your ID digits</string>
+</resources>

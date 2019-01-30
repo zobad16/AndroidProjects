@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chirp Temperature Calculator</string>
+    <string name="message1">Did you know you could determine the temperature outside by counting the chirping of the crickets?
+        Just Calculate the amount of chirping the cricket makes in 25 seconds </string>
+    <string name="hint_textbox">Number of chirps in 25 seconds</string>
+    <string name="submit_btn">Calculate Temperature</string>
+    <string name="result">Temperature in degrees Celsius:</string>
+    <string name="tv_message2">TextView</string>
+    <string name="msg_thermometer">thermometer</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent Challenge2</string>
+    <string name="add_contact_btn">Add Contact</string>
+    <string name="create_contact_btn">Create Contact</string>
+</resources>
